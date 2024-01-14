@@ -11,3 +11,7 @@
 2. Pillow (PIL)
 3. OpenCV(CV2)
 
+## RGB TO GRAYSCALE IMAGE CONVERSION
+
+![cat_rgb_image](https://github.com/CoderNitu/Processing_Image_Data_DL/assets/87817227/9852b915-e26f-4485-816b-0a31870fa3dc)
+
