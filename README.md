@@ -15,5 +15,5 @@
 
 ![cat_rgb_image](https://github.com/CoderNitu/Processing_Image_Data_DL/assets/87817227/9852b915-e26f-4485-816b-0a31870fa3dc)
 
-![Screenshot (193)](https://github.com/CoderNitu/Processing_Image_Data_DL/assets/87817227/d1b4bb05-28d1-42cf-9c22-088f1ef107a4)
+![Screenshot (193)](https://github.com/CoderNitu/Processing_Image_Data_DL/assets/87817227/2f1ba31a-70ba-49f3-95de-07afa8d703ac)
 
